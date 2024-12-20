@@ -1,0 +1,6 @@
+pydantic
+requests
+fastapi
+pymongo
+python-dotenv
+parsel
